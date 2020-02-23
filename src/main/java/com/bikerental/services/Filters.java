@@ -7,7 +7,6 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 public class Filters {
-    private Printer printerImpl = new PrinterImpl();
 
     public BikeBase filterList(BikeBase bikeBase, Scanner scanner) {
 
